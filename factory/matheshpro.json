@@ -1,0 +1,9 @@
+{
+	"name": "matheshpro",
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eab9960a-1102-42cf-b104-43e2171abbdd",
+		"tenantId": "a17b9c28-88dc-4b60-8411-f6ba604a4c88"
+	}
+}
