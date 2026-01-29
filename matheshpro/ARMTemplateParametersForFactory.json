@@ -1,0 +1,42 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "matheshpro"
+		},
+		"ls_database_password": {
+			"value": ""
+		},
+		"ls_datalake_accountKey": {
+			"value": ""
+		},
+		"totalresults_password": {
+			"value": ""
+		},
+		"ls_database_properties_typeProperties_server": {
+			"value": "mathesh.database.windows.net"
+		},
+		"ls_database_properties_typeProperties_database": {
+			"value": "matheshpro"
+		},
+		"ls_database_properties_typeProperties_userName": {
+			"value": "mathesh"
+		},
+		"ls_datalake_properties_typeProperties_url": {
+			"value": "https://matheshpro.dfs.core.windows.net/"
+		},
+		"ls_rest_properties_typeProperties_url": {
+			"value": "https://pokeapi.co/api/v2/pokemon"
+		},
+		"totalresults_properties_typeProperties_server": {
+			"value": "mathesh.database.windows.net"
+		},
+		"totalresults_properties_typeProperties_database": {
+			"value": "matheshpro"
+		},
+		"totalresults_properties_typeProperties_userName": {
+			"value": "mathesh"
+		}
+	}
+}
